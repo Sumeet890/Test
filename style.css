@@ -1,0 +1,73 @@
+
+.text{
+    color: rgb(225, 115, 142);  
+    
+}
+body{
+    background-color: aqua;
+    text-align: center;
+    position:relative;
+    
+    
+    
+}
+/* #container{
+    height:100vh;
+    background-color: antiquewhite;
+    text-align: center;
+    
+} */
+/* .box{
+    background-color: aqua;
+    border:1.5px solid blueviolet;
+    /*font-size:4rem; */
+    /* padding:4rem;
+    width:55%;
+    margin-left: 120px;
+
+} */ 
+#ball{
+    border:1.8px solid rgb(109, 97, 97);
+    height:100px;
+    width:100px;
+    border-radius:50%;
+    background-color: brown;
+     position:absolute;                            /*important line*/
+     top:0;
+    left:0;
+    /* animation: moving 5s linear infinite;  */
+    
+
+}
+/* @keyframes moving{
+    0%{
+        top:0;
+        left:0;
+    }
+    25%{
+        top:0;
+        left:800px;
+        background-color:rgb(200, 176, 209);
+    }
+    50%{
+        top:310px;
+        left:800px;
+        background-color: green;
+    }
+    75%{
+        top:310px;
+        left:0;
+        background-color: pink;
+    }
+
+} */
+
+/* #ball {
+    width: 15vw;
+    height: 15vw;
+    border-radius: 50%;
+    background-color: aquamarine;
+    position: absolute;
+    top: 45%;
+    left: 45%;
+} */
